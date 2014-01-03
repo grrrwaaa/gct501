@@ -32,7 +32,7 @@ Teams should identify the intended destination of the project (specific upcoming
 Grade weights will be balanced approximately 50/50 according to the individual reading responses and the team project evaluations.
 
 
-### Readings
+## Readings
 
 
 
