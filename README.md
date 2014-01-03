@@ -13,7 +13,7 @@ The goal of this course is to develop solid grounding in the many diverse yet vi
 
 The first component of the course will emphasize significant milestones in the history and development of culture technology through individual deep reading, group discussion and follow-up research. The second component will organize students into small teams, building research skills through the conceptualization, development, incrementally refined presentation of a proposed project.
 
-### Individual reading & class discussion
+### Individual readings & class discussion
 
 Each week a selection of reading (and viewing/listening) materials will be offered. Each student should become familiar with this material, and develop an original critical question or insightful comment for one of these materials, and enter this into a shared document. Your question/comment should include at least one reference outside of the materials given; this could be another important research paper, artwork, engineering breakthrough or other cultural product. Include a URL with your reference. The professors will also contribute a question/commment, as an example.
 
@@ -31,6 +31,8 @@ Teams should identify the intended destination of the project (specific upcoming
 
 Grade weights will be balanced approximately 50/50 according to the individual reading responses and the team project evaluations.
 
+
+### Readings
 
 
 
