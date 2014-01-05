@@ -34,6 +34,17 @@ Grade weights will be balanced approximately 50/50 according to the individual r
 
 ## Readings
 
+Recommended textbook: [New Media Reader](http://www.newmediareader.com/)  [(see also here)](http://www.manovich.net/vis242_winter_2006/New%20Media%20Reader%20all/)
+
+The Complex, the Changing, and the Indeterminate
+
+Collective Media, Personal Media
+
+Design, Activity, and Action
+
+Revolution, Resistance, and the Launch of the Web
+
+Contemporary Directions
 
 
 
