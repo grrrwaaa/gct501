@@ -52,7 +52,7 @@ and Intelligence**, 1950](http://www.manovich.net/vis242_winter_2006/New%20Media
 A Conceptual Framework**, 1962](http://www.manovich.net/vis242_winter_2006/New%20Media%20Reader%20all/08-englebart62-03.pdf)
 - [Ivan Sutherland: **Sketchpad - A Man-Machine Graphical Communication System**, 1963](http://www.manovich.net/vis242_winter_2006/New%20Media%20Reader%20all/09-sutherland-03.pdf)
 - [Douglas Engelbart and William English: **A Research Center for Augmenting Human Intellect**, 1968](http://www.manovich.net/vis242_winter_2006/New%20Media%20Reader%20all/16-englebart68-03.pdf)   
-- [(The Mother of All Demos)](http://sloan.stanford.edu/mousesite/1968Demo.html)
+(also known as [The Mother of All Demos](http://sloan.stanford.edu/mousesite/1968Demo.html))
 - [Ted Nelson: **Computer Lib / Dream Machines**, 1974](http://www.manovich.net/vis242_winter_2006/New%20Media%20Reader%20all/21-nelson74-03.pdf)
 
 Technology, Culture & Art
