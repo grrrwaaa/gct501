@@ -80,7 +80,7 @@ art**](http://www.tandfonline.com/doi/pdf/10.1080/14626268.2012.709940)
 - [Simon Penny: **Art and Artificial Life – a Primer**](http://simonpenny.net/texts/Resources/a_life.pdf)
 - [Jon McCormack: **Open Problems in Evolutionary Music and Art**](http://www.csse.monash.edu.au/~jonmc/research/Papers/OpenProblemsSV.pdf)
 - [Karl Sims: **Evolving Virtual Creatures**](http://www.karlsims.com/papers/siggraph94.pdf)   
-- [(Video presentation)](https://archive.org/details/sims_evolved_virtual_creatures_1994)
+(also presented in this [video](https://archive.org/details/sims_evolved_virtual_creatures_1994))
 - [Mark A. Bedau, John S. McCaskill, Norman H. Packard, Steen Rasmussen, Chris Adami, David G. Green, Takashi Ikegami, Kunihiko Kaneko, Thomas S. Ray: **Open Problems in Artificial Life**](http://authors.library.caltech.edu/13564/1/BEDal00.pdf)
 
 Electronic/Computer Music
