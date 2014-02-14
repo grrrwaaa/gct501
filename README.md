@@ -2,7 +2,7 @@
 
 KAIST Graduate School of Culture Technology, Spring 2014   
 Hours: Tue,Thu 1:00PM~2:30PM   
-Professors: Dr. Graham Wakefield (KAIST), Dr. Woon Seung Yeo (Ewha Women's University)
+Professors: Dr. Graham Wakefield (KAIST), Dr. Woon Seung Yeo (Ewha Women's University)   
 Language: English   
 Credit: 3.0   
 Web: https://github.com/grrrwaaa/gct501
