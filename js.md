@@ -4,7 +4,7 @@ KAIST Graduate School of Culture Technology, Spring 2014
 Hours: TBD
 Professor: Dr. Graham Wakefield (KAIST)
 Language: English   
-Web: https://github.com/grrrwaaa/gct501
+Web: https://github.com/grrrwaaa/gct501/blob/master/js.md
 
 An introduction to programming for media and culture technologies, using the [JavaScript](http://en.wikipedia.org/wiki/JavaScript) language.
 
