@@ -7,7 +7,7 @@ Language: English
 Credit: 3.0   
 Web: https://github.com/grrrwaaa/gct501
 
-The goal of this course is to develop solid grounding in the many diverse yet vital threads running through the mutual coevolution of culture and technology, both historical and contemporary, both practical and theoretical. 
+Where are we? Where did our world come from, and where are we going? The goal of this course is to develop solid grounding in the many diverse yet vital threads running through the mutual coevolution of culture and technology, both historical and contemporary, both practical and theoretical. 
 
 ## Format
 
@@ -15,7 +15,7 @@ The first component of the course will emphasize significant milestones in the h
 
 ### Individual readings & class discussion
 
-Each week a selection of reading (and viewing/listening) materials will be offered. Each student should become familiar with this material, and develop an original critical question or insightful comment for one of these materials, and enter this into a shared document. Your question/comment should include at least one reference outside of the materials given; this could be another important research paper, artwork, engineering breakthrough or other cultural product. Include a URL with your reference. The professors will also contribute a question/commment, as an example.
+Each week a selection of reading (and viewing/listening) materials will be offered, somewhat in the style of a [Journal Club](http://en.wikipedia.org/wiki/Journal_club). Each student should become familiar with this material, and develop an original critical question or insightful comment for one of these materials, and enter this into a shared document. Your question/comment should include at least one reference outside of the materials given; this could be another important research paper, artwork, engineering breakthrough or other cultural product. Include a URL with your reference. The professors will also contribute a question/commment, as an example.
 
 > However, if the same question/comment has already been made by another student, you will need to think of a new one. Also, if the quota of questions/comments for that article has already been used up, you will need to submit a question/comment for a different one. 
 
@@ -91,3 +91,12 @@ Electronic/Computer Music
 - [Iannis Xenakis: **Formalized Music** (chapters 1 & 5)](http://wiki.dxarts.washington.edu/sandbox/groups/general/wiki/a2033/attachments/7c254/XenakisFormalizeMusic.pdf?sessionID=a3f30c5d2db2af680e2cf41f3627b42c99b9bf5f)
 - [Iannis Xenakis: **Music Composition Treks**](http://music.rulitru.ru/docs/2/1010/conv_1/file1.pdf)
 
+---
+
+Question now: cContemporary contentious
+
+- [The problem with TED](http://www.theguardian.com/commentisfree/2013/dec/30/we-need-to-talk-about-ted/print)
+
+---
+
+[![Flight 501 -- and 8 billion dollar bug](http://top-10-list.org/wp-content/uploads/2010/03/Ariane-5-Flight-501.jpg)](http://en.wikipedia.org/w/index.php?title=Ariane_5_Flight_501&redirect=no)
