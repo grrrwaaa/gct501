@@ -7,6 +7,8 @@ Language: English
 Credit: 3.0   
 Web: https://github.com/grrrwaaa/gct501
 
+> Note: CT501 is also supported by a supplementary programming course (using the JavaScript language). 
+
 Where are we? Where did our world come from, and where are we going? The goal of this course is to develop solid grounding in the many diverse yet vital threads running through the mutual coevolution of culture and technology, both historical and contemporary, both practical and theoretical. 
 
 ## Format
