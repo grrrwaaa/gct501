@@ -8,11 +8,11 @@ Web: https://github.com/grrrwaaa/gct501/blob/master/js.md
 
 An introduction to programming for media and culture technologies, using the [JavaScript](http://en.wikipedia.org/wiki/JavaScript) language. 
 
+## Why JavaScript?
+
 JavaScript (JS), also known as [ECMAScript](http://en.wikipedia.org/wiki/ECMAScript), JScript, or ActionScript,  is a language of growing importance at the intersection of media/culture technology. 
 
 > Note: Despite the similarity of name, JavaScript has no particular relation to Java.
-
-## Why JavaScript?
 
 ### JS is everywhere:
 
