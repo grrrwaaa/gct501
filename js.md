@@ -37,7 +37,7 @@ JavaScript (JS), also known as [ECMAScript](http://en.wikipedia.org/wiki/ECMAScr
 
 - JS has become the language of choice for several Introduction to Computer Science (CS101) courses, including at [Stanford University](http://www.stanford.edu/class/cs101/) (also [here](https://www.coursera.org/course/cs101)). The Khan Academy also offers [a free, online course](https://www.khanacademy.org/cs).
 
-## Syllabus (work in progress)
+## Syllabus topics
 
 - Language
 	- The distinction between language, run-time, developement environment, and libraries
@@ -72,7 +72,6 @@ JavaScript (JS), also known as [ECMAScript](http://en.wikipedia.org/wiki/ECMAScr
 	- Node controlling subprocesses
 	- Node + browser -> [node-webkit](https://github.com/rogerwang/node-webkit/wiki)
 	- JS Embedded: [Max/MSP](http://www.cycling74.com/docs/max5/tutorials/max-tut/javascriptchapter01.html), Adobe, etc.
-
 
 ## Resources
 
