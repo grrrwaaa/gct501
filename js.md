@@ -5,6 +5,7 @@
 KAIST [Graduate School of Culture Technology](http://ct.kaist.ac.kr), Spring 2014   
 Hours: TBD   
 Professor: [Dr. Graham Wakefield](http://www.grahamwakefield.net)   
+TA: TBD   
 Language: English   
 Web: [https://github.com/grrrwaaa/gct501/blob/master/js.md](https://github.com/grrrwaaa/gct501/blob/master/js.md)
 
