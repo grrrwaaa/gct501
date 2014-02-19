@@ -1,4 +1,4 @@
-# <Supplementary Introduction to Programming>
+# Introduction to Programming (supplementary course, based on JavaScript)
 
 KAIST Graduate School of Culture Technology, Spring 2014   
 Hours: TBD
