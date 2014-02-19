@@ -1,10 +1,12 @@
-# Introduction to Programming (supplementary course, based on JavaScript)
+# Introduction to Programming 
 
-KAIST Graduate School of Culture Technology, Spring 2014   
-Hours: TBD
-Professor: Dr. Graham Wakefield (KAIST)
+> A supplementary course, based on the JavaScript language
+
+KAIST [Graduate School of Culture Technology](http://ct.kaist.ac.kr), Spring 2014   
+Hours: TBD   
+Professor: [Dr. Graham Wakefield](http://www.grahamwakefield.net)   
 Language: English   
-Web: https://github.com/grrrwaaa/gct501/blob/master/js.md
+Web: [https://github.com/grrrwaaa/gct501/blob/master/js.md](https://github.com/grrrwaaa/gct501/blob/master/js.md)
 
 An introduction to programming for media and culture technologies, using the [JavaScript](http://en.wikipedia.org/wiki/JavaScript) language. 
 
@@ -65,7 +67,6 @@ JavaScript (JS), also known as [ECMAScript](http://en.wikipedia.org/wiki/ECMAScr
 	- [Khan Academy](https://www.khanacademy.org/cs/programming)
 	- [Stanford CS101](https://www.coursera.org/course/cs101)
 
-	
 - Desktop/server-side JS with [node.js](http://nodejs.org/)
 	- Development: local (terminal) or online using e.g. [Cloud 9](https://c9.io/)
 	- Asynchronous, "evented"
