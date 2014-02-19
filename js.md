@@ -40,6 +40,8 @@ JavaScript (JS) is a language of growing importance at the intersection of media
 
 The syllabus contains three parallel tracks. The first track builds up understanding in the programming language itself, and principles of program construction in general. The second track applies these capabilities in a browser-based environment, beginning with basic HTML5 and gradually introducing commonly-used libraries/frameworks for media and culture technology. The third track explores the use of JS in server and desktop scenarios via Node.js, including commonly-used design patterns, libraries and frameworks, and deployment systems. 
 
+The combination of the three tracks should enable students to construct complex, powerful and efficient applications with rich real-time audiovisual media, dynamic interaction, available for small- or large-scale networks of users, connected to the cloud, supporting data collection, visualization and exploration, the develompent of multi-user online games, new concepts of social-technological communication, and more. 
+
 - Language 
 	- Weeks 1-4: Basic language capability
 		- The distinction between language, run-time, developement environment, and libraries
