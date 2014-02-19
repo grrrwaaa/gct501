@@ -36,48 +36,58 @@ JavaScript (JS) is a language of growing importance at the intersection of media
 
 - JS has become the language of choice for several Introduction to Computer Science (CS101) courses, including at [Stanford University](http://www.stanford.edu/class/cs101/) (also [here](https://www.coursera.org/course/cs101)). The Khan Academy also offers [a free, online course](https://www.khanacademy.org/cs).
 
-## Syllabus topics
+## Syllabus
 
-- Language
-	- The distinction between language, run-time, developement environment, and libraries
-	- Expressions and variables
-	- Statements, control rlow and functions
-	- Strings and regular expressions
-	- Objects and arrays, JSON (stringify/parse)
-	- Scope, closures, upvalues
-	- OOP: Constructors, new and this, prototype-inheritance
-	- Algorithms & data-structures
-	
-- Browser-based JS & HTML5	
-	- Development: [Chrome console](https://developers.google.com/chrome-developer-tools/docs/console), [jsfiddle](http://jsfiddle.net/), etc.
-	- [HTML](http://www.w3schools.com/html/) & [CSS](http://www.w3schools.com/css/default.asp)
-	- [DOM](http://www.w3schools.com/js/js_htmldom.asp), events and [jQuery](http://jquery.com/)
-	- Canvas and [Easel.js](http://www.createjs.com/#!/EaselJS)/[processing.js](http://processingjs.org/articles/jsQuickStart.html) etc
-	- Data-viz and [D3.js](http://d3js.org/)
-	- WebGL and [Three.js](http://threejs.org/)
-	- WebAudio and [Gibberish.js](http://www.charlie-roberts.com/gibberish/)
-	- Social APIs
-	
-- Resources:
-	- [Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
-	- [W3C JavaScript Guide](http://www.w3schools.com/js/)
-	- [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-	- [Codecadamy](http://www.codecademy.com/tracks/javascript)
-	- [Khan Academy](https://www.khanacademy.org/cs/programming)
-	- [Stanford CS101](https://www.coursera.org/course/cs101)
+The syllabus contains three parallel tracks. The first track builds up understanding in the programming language itself, and principles of program construction in general. The second track applies these capabilities in a browser-based environment, beginning with basic HTML5 and gradually introducing commonly-used libraries/frameworks for media and culture technology. The third track explores the use of JS in server and desktop scenarios via Node.js, including commonly-used design patterns, libraries and frameworks, and deployment systems. 
 
-- Desktop/server-side JS with [node.js](http://nodejs.org/)
-	- Development: local (terminal) or online using e.g. [Cloud 9](https://c9.io/)
-	- Asynchronous, "evented"
-	- [modules via NPM](https://www.npmjs.org/)
-	- A simple file server, a flexible server application; using e.g. [express](http://expressjs.com/)
-	- Continuous interaction via websockets and [socket.io](http://socket.io/)
-	- Databases (SQL or noSQL)
-	- Deployment on [Nodejitsu](https://www.nodejitsu.com/)/[Heroku](https://www.heroku.com/)/[Cloudno.de](http://cloudno.de/)/[AppFog](https://www.appfog.com/)/[Modulus.io](https://modulus.io/) [etc](https://github.com/joyent/node/wiki/node-hosting)
-	- Node controlling subprocesses
-	- Node + browser -> [node-webkit](https://github.com/rogerwang/node-webkit/wiki)
-	- JS Embedded in other applications: [Max/MSP](http://www.cycling74.com/docs/max5/tutorials/max-tut/javascriptchapter01.html), Adobe, etc.
+- Language 
+	- Weeks 1-4: Basic language capability
+		- The distinction between language, run-time, developement environment, and libraries
+		- Expressions and variables
+		- Statements, control flow and functions
+		- Strings and regular expressions
+		- Objects and arrays, JSON (stringify/parse)
+	- Weeks 5-8: Deeper understanding
+		- Scope, closures, upvalues
+		- OOP: Constructors, new and this, prototype-inheritance
+		- Algorithms & data-structures
 	
-- Resources:	
-	- [The Node handbook](http://www.nodebeginner.org/)
-	- [How to Node](http://howtonode.org/)
+- Browser-based JS & HTML5 (weeks 1-12)
+	- Weeks 1-4: Essentials
+		- Development: [Chrome console](https://developers.google.com/chrome-developer-tools/docs/console), [jsfiddle](http://jsfiddle.net/), etc.
+		- [HTML](http://www.w3schools.com/html/) & [CSS](http://www.w3schools.com/css/default.asp)
+	- Weeks 2-6: Rendering
+		- [DOM](http://www.w3schools.com/js/js_htmldom.asp), events and [jQuery](http://jquery.com/)
+		- Canvas and [Easel.js](http://www.createjs.com/#!/EaselJS)/[processing.js](http://processingjs.org/articles/jsQuickStart.html) etc
+	- Weeks 7-14: More libraries, frameworks and APIs
+		- Data-viz and [D3.js](http://d3js.org/)
+		- WebGL and [Three.js](http://threejs.org/)
+		- WebAudio and [Gibberish.js](http://www.charlie-roberts.com/gibberish/)
+		- Social APIs
+		- etc.
+
+- Desktop/server-side JS with [node.js](http://nodejs.org/) (weeks 8-14)
+	- Weeks 8-14: Server-side applications
+		- Development: local (terminal) or online using e.g. [Cloud 9](https://c9.io/)
+		- Asynchronous, "evented"
+		- [modules via NPM](https://www.npmjs.org/)
+		- A simple file server, a flexible server application; using e.g. [express](http://expressjs.com/)
+		- Continuous interaction via websockets and [socket.io](http://socket.io/)
+		- Databases (SQL or noSQL)
+		- Deployment on [Nodejitsu](https://www.nodejitsu.com/)/[Heroku](https://www.heroku.com/)/[Cloudno.de](http://cloudno.de/)/[AppFog](https://www.appfog.com/)/[Modulus.io](https://modulus.io/) [etc](https://github.com/joyent/node/wiki/node-hosting)
+	- Weeks 12-14: Desktop and embedded
+		- Node controlling subprocesses
+		- Node + browser -> [node-webkit](https://github.com/rogerwang/node-webkit/wiki)
+		- JS Embedded in other applications: [Max/MSP](http://www.cycling74.com/docs/max5/tutorials/max-tut/javascriptchapter01.html), Adobe, etc.
+
+## Additional learning resources:
+
+- [Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
+- [W3C JavaScript Guide](http://www.w3schools.com/js/)
+- [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [Codecadamy](http://www.codecademy.com/tracks/javascript)
+- [Khan Academy](https://www.khanacademy.org/cs/programming)
+- [Stanford CS101](https://www.coursera.org/course/cs101)
+- [The Node handbook](http://www.nodebeginner.org/)
+- [How to Node](http://howtonode.org/)
+
