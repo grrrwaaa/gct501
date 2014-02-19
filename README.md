@@ -11,6 +11,8 @@ Web: https://github.com/grrrwaaa/gct501
 
 Where are we? Where did our world come from, and where are we going? The goal of this course is to develop solid grounding in the many diverse yet vital threads running through the mutual coevolution of culture and technology, both historical and contemporary, both practical and theoretical. 
 
+[![Sleepless Wonderland](http://www.thisiscolossal.com/wp-content/uploads/2013/02/yang-1.jpg)](http://www.thisiscolossal.com/2013/02/yang-yongliang-silent-city/)
+
 ## Format
 
 The first component of the course will emphasize significant milestones in the history and development of culture technology through individual deep reading, group discussion and follow-up research. The second component will organize students into small teams, building research skills through the conceptualization, development, incrementally refined presentation of a proposed project.

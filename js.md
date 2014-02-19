@@ -37,3 +37,51 @@ JavaScript (JS), also known as [ECMAScript](http://en.wikipedia.org/wiki/ECMAScr
 
 - JS has become the language of choice for several Introduction to Computer Science (CS101) courses, including at [Stanford University](http://www.stanford.edu/class/cs101/) (also [here](https://www.coursera.org/course/cs101)). The Khan Academy also offers [a free, online course](https://www.khanacademy.org/cs).
 
+## Syllabus (work in progress)
+
+- Language
+	- The distinction between language, run-time, developement environment, and libraries
+	- Expressions and Variables
+	- Statements, Control Flow and Functions
+	- Strings and regular expressions
+	- Objects and Arrays, JSON (stringify/parse)
+	- Scope, Closures, Upvalues
+	- OOP: Constructors, new and this, prototype-Inheritance
+	- Algorithms & data-structures
+
+- Browser-based JS & HTML5	
+	- Development: [Chrome console](https://developers.google.com/chrome-developer-tools/docs/console), [jsfiddle](http://jsfiddle.net/), etc.
+	- [HTML](http://www.w3schools.com/html/) & [CSS](http://www.w3schools.com/css/default.asp)
+	- [DOM](http://www.w3schools.com/js/js_htmldom.asp), events and [jQuery](http://jquery.com/)
+	- Canvas and [Easel.js](http://www.createjs.com/#!/EaselJS)/[processing.js](http://processingjs.org/articles/jsQuickStart.html) etc
+	- Data-viz and [D3.js](http://d3js.org/)
+	- WebGL and [Three.js](http://threejs.org/)
+	- WebAudio and [Gibberish.js](http://www.charlie-roberts.com/gibberish/)
+	- Social APIs
+	
+- Server-side JS with [node.js](http://nodejs.org/)
+	- Development: local (terminal) or online using e.g. [Cloud 9](https://c9.io/)
+	- Asynchronous, "evented"
+	- [modules via NPM](https://www.npmjs.org/)
+	- a simple file server, a flexible server application; using e.g. [express](http://expressjs.com/)
+	- continuous interaction via websockets and [socket.io](http://socket.io/)
+	- databases (SQL or noSQL)
+	- Deployment on [Nodejitsu](https://www.nodejitsu.com/)/[Heroku](https://www.heroku.com/)/[Cloudno.de](http://cloudno.de/)/[AppFog](https://www.appfog.com/)/[Modulus.io](https://modulus.io/) [etc](https://github.com/joyent/node/wiki/node-hosting)
+	
+- Desktop applications
+	- Node controlling subprocesses
+	- Node + browser -> [node-webkit](https://github.com/rogerwang/node-webkit/wiki)
+	- JS Embedded: [Max/MSP](http://www.cycling74.com/docs/max5/tutorials/max-tut/javascriptchapter01.html), Adobe, etc.
+
+
+## Resources
+
+- [Eloquent JavaScript](http://eloquentjavascript.net/contents.html)
+- [W3C JavaScript Guide](http://www.w3schools.com/js/)
+- [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [Codecadamy](http://www.codecademy.com/tracks/javascript)
+- [Khan Academy](https://www.khanacademy.org/cs/programming)
+- [Stanford CS101](https://www.coursera.org/course/cs101)
+
+- [The Node handbook](http://www.nodebeginner.org/)
+- [How to Node](http://howtonode.org/)
