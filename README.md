@@ -38,7 +38,7 @@ In summary:
 
 ### Team projects and class presentations
 
-After completing student surveys in weeks 1/2, teams will be allocated in week 3. Teams will have approximately four members, aiming for an even distribution of background expertise and seniority. Each team will develop a project idea and propose this idea several times through the course, with the first presentation around week 6 or 7. 
+After completing student surveys in weeks 1/2, teams will be allocated in week 3. Teams will have approximately four members, aiming for an even distribution of background expertise and seniority. Each team will develop a project idea and propose this idea several times through the course, with the first presentation around week 6 or 7. It is recommended to use skills developed in the supplementary programming/physical computing courses in the final project.
 
 Teams should identify the intended destination of the project (specific upcoming conferences, festivals or other events, or journals, grant RFPs, or perhaps a company startup proposal, etc.), perform in-depth investigation into the most significant related work, the key critical questions in the field, the modes of evalutation and distribution, software prototypes, and any other necessary steps to build the case for the final presentation.
 
