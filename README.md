@@ -7,7 +7,7 @@ Language: English
 Credit: 3.0   
 Web: https://github.com/grrrwaaa/gct501
 
-> Note: CT501 is also supported by [a supplementary programming course (using the JavaScript language](https://github.com/grrrwaaa/gct501/blob/master/js.md)). 
+> Note: CT501 is also supported by [a supplementary programming course (using the JavaScript language](https://github.com/grrrwaaa/gct501/blob/master/js.md)). All students must sign up for this supplementary course or the physical computing course (or both!).
 
 [![Sleepless Wonderland](http://www.thisiscolossal.com/wp-content/uploads/2013/02/yang-1.jpg)](http://www.thisiscolossal.com/2013/02/yang-yongliang-silent-city/)
 
@@ -53,7 +53,7 @@ Grade weights will be balanced approximately 50/50 according to the individual r
 - [Kurt Godel: **On formally undecidable propositions of Principia
 Mathematica and related systems I**, 1931](http://www.research.ibm.com/people/h/hirzel/papers/canon00-goedel.pdf)   
 see also [Raymond Smullyan's short version](http://blog.plover.com/math/Gdl-Smullyan.html) and this [BBC podcast](http://www.bbc.co.uk/programmes/b00dshx3)
-- [Erwin Schrodinger: **What is Life?**, 1948](http://whatislife.stanford.edu/LoCo_files/What-is-Life.pdf)
+- [Erwin Schrodinger: **What is Life?**, 1944](http://whatislife.stanford.edu/LoCo_files/What-is-Life.pdf)
 - [Claude Shannon: **A Mathematical Theory of Information**, 1948](http://www.enseignement.polytechnique.fr/informatique/profs/Nicolas.Sendrier/X02/TI/shannon.pdf)
 - [Alan Turing: **Computing Machinery
 and Intelligence**, 1950](http://www.manovich.net/vis242_winter_2006/New%20Media%20Reader%20all/03-turing-03.pdf)
@@ -112,7 +112,7 @@ A Conceptual Framework**, 1962](http://www.manovich.net/vis242_winter_2006/New%2
 art**, 2012](http://www.tandfonline.com/doi/pdf/10.1080/14626268.2012.709940)
 - [Benjamin Bratten: **The problem with TED**, 2013](http://www.theguardian.com/commentisfree/2013/dec/30/we-need-to-talk-about-ted/print)
 - [Nala Lokas: **An Example of Homeomorphic Domain Surjection**, 2014](http://thatsmathematics.com/mathgen/paper.php?nameType%5B1%5D=custom&customName%5B1%5D=Nala+Lokas)   
-   See also [Alan Sokal: Transgressing the Boundaries: Towards a Transformative Hermeneutics of Quantum Gravity**, 1996](http://compbio.biosci.uq.edu.au/mediawiki/upload/f/f9/Sokal-transgressing-boundaries.pdf))
+   See also [Alan Sokal: **Transgressing the Boundaries: Towards a Transformative Hermeneutics of Quantum Gravity**, 1996](http://compbio.biosci.uq.edu.au/mediawiki/upload/f/f9/Sokal-transgressing-boundaries.pdf)
 
 ## Recommended collections: 
 
