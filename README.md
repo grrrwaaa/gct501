@@ -50,8 +50,9 @@ Grade weights will be balanced approximately 50/50 according to the individual r
 
 Computing Technology: Origins and Intersections with Culture and Art
 
-### 1950's
+### 1950's and earlier
 
+- [Claude Shannon: **A Mathematical Theory of Information**, 1948](http://www.enseignement.polytechnique.fr/informatique/profs/Nicolas.Sendrier/X02/TI/shannon.pdf)
 - [Alan Turing: **Computing Machinery
 and Intelligence**, 1950](http://www.manovich.net/vis242_winter_2006/New%20Media%20Reader%20all/03-turing-03.pdf)
 - [Norbert Weiner: **Men, Machines, and the World About**, 1954](http://www.manovich.net/vis242_winter_2006/New%20Media%20Reader%20all/04-wiener-03.pdf)
@@ -108,6 +109,8 @@ A Conceptual Framework**, 1962](http://www.manovich.net/vis242_winter_2006/New%2
 - [Alan Dorin, Jonathan McCabe, Jon McCormack, Gordon Monro, Mitchell Whitelaw: **A framework for understanding generative
 art**, 2012](http://www.tandfonline.com/doi/pdf/10.1080/14626268.2012.709940)
 - [Benjamin Bratten: **The problem with TED**, 2013](http://www.theguardian.com/commentisfree/2013/dec/30/we-need-to-talk-about-ted/print)
+- [Nala Lokas: **An Example of Homeomorphic Domain Surjection**, 2014](http://thatsmathematics.com/mathgen/paper.php?nameType%5B1%5D=custom&customName%5B1%5D=Nala+Lokas)
+ (and see also [Alan Sokal: Transgressing the Boundaries: Towards a Transformative Hermeneutics of Quantum Gravity**, 1996](http://compbio.biosci.uq.edu.au/mediawiki/upload/f/f9/Sokal-transgressing-boundaries.pdf))
 
 ## Recommended collections: 
 
