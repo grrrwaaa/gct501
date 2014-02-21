@@ -48,10 +48,11 @@ Grade weights will be balanced approximately 50/50 according to the individual r
 
 ## Readings
 
-Computing Technology: Origins and Intersections with Culture and Art
-
 ### 1950's and earlier
 
+- [Kurt Godel: **On formally undecidable propositions of Principia
+Mathematica and related systems I**, 1931](http://www.research.ibm.com/people/h/hirzel/papers/canon00-goedel.pdf), and see also [Raymond Smullyan's short version](http://blog.plover.com/math/Gdl-Smullyan.html) and this [BBC podcast](http://www.bbc.co.uk/programmes/b00dshx3)
+- [Erwin Schrodinger: **What is Life?**, 1948](http://whatislife.stanford.edu/LoCo_files/What-is-Life.pdf)
 - [Claude Shannon: **A Mathematical Theory of Information**, 1948](http://www.enseignement.polytechnique.fr/informatique/profs/Nicolas.Sendrier/X02/TI/shannon.pdf)
 - [Alan Turing: **Computing Machinery
 and Intelligence**, 1950](http://www.manovich.net/vis242_winter_2006/New%20Media%20Reader%20all/03-turing-03.pdf)
