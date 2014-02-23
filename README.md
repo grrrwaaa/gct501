@@ -19,28 +19,17 @@ The first component of the course will emphasize significant milestones in the h
 
 ### Journal Club: readings + discussion
 
-Each week a selection of reading (and viewing/listening) materials will be offered, somewhat in the style of a [Journal Club](http://en.wikipedia.org/wiki/Journal_club). Each student should become familiar with this material, and develop an original critical question or insightful comment for one of these materials, and enter this into a shared document. The question/comment should include at least one reference outside of the materials given; this could be another important research paper, artwork, engineering breakthrough or other cultural product. Include a URL with your reference. The professors will also contribute a question/commment, as an example.
+A selection of reading (and viewing/listening) materials will be offered, somewhat in the style of a [Journal Club](http://en.wikipedia.org/wiki/Journal_club). 
 
-> However, if the same question/comment has already been made by another student, you will need to think of a new one. Also, if the quota of questions/comments for that article has already been used up, you will need to submit a question/comment for a different one. 
+Each student must join a pair and choose one of the recommended papers to study in detail. Each class, three pairs will present a 10-15 minute summary of their chosen paper, giving an overview and detailing any areas of particular interest. No presentation slides are necessary, just the paper, and any online material found relevant. Class discussion of the presented ideas is **very very strongly encouraged**!
 
-In addition to your comment/question, you should also read other's questions/comments and propose a response to at least one of them. We will work through these questions, comments, and responses through group discussion and follow-up investigations in the following class.
-
-In summary:
-
-- Read 2-3 of the suggested papers, noting down any insights or critical questions that come to you
-- Find one empty **critique** slot in the online discussion document corresponding to one of the papers
-	- Write an original insightful comment or critical question
-	- Include at least one external reference to illustrate or ground your argument (as a URL if possible)
-	- Include your name
-- Find one critique entered by another student, that has not yet had a **response**
-	- Write an original insightful comment in response slot, including a reference if possible
-	- Include your name
+In addition to discussion during class, each student should develop an original critical question or insightful comment for one of the week's presented papers, and enter this into a shared document. The question/comment should include at least one reference outside of the materials given; this could be another important research paper, artwork, engineering breakthrough or other cultural product. Include a URL with your reference. The professors will also contribute a question/commment, as an example. You can also read other's questions/comments and propose a response to at least one of them. We will work through these questions, comments, and responses through group discussion and follow-up investigations in the following class.
 
 ### Team projects and class presentations
 
-After completing student surveys in weeks 1/2, teams will be allocated in week 3. Teams will have approximately four members, aiming for an even distribution of background expertise and seniority. Each team will develop a project idea and propose this idea several times through the course, with the first presentation around week 6 or 7. It is recommended to use skills developed in the supplementary programming/physical computing courses in the final project.
+After completing student surveys in weeks 1/2, teams will be allocated in week 3. Teams will have approximately four members, aiming for an even distribution of background expertise and seniority. Each team will develop a project idea and propose this idea several times through the course, starting around week 6 or 7, culminating in a prototype and documentation (video, academic paper, patent application etc.). It is **strongly recommended** to use skills developed in the supplementary programming/physical computing courses in the prototype.
 
-Teams should identify the intended destination of the project (specific upcoming conferences, festivals or other events, or journals, grant RFPs, or perhaps a company startup proposal, etc.), perform in-depth investigation into the most significant related work, the key critical questions in the field, the modes of evalutation and distribution, software prototypes, and any other necessary steps to build the case for the final presentation.
+Teams should identify the intended destination of the project (specific upcoming conferences, festivals or other events, or journals, grant RFPs, or perhaps a company startup proposal, etc.), perform in-depth investigation into the most significant related work, the key critical questions in the field, the modes of evalutation and distribution, software prototypes, and any other necessary steps to build the case for the final presentation. Teams are expected to give two presentations in the second half of the course (two teams per class). The first presentation should emphasize literature review for the relevant field, e.g. drawing upon best papers in recent conferences; continuing the style of the journal club (including the discussion and comments). The second presentation will be a progress report on the developing prototype. 
 
 ## Grading
 
