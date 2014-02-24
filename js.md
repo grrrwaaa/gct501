@@ -3,7 +3,8 @@
 > A supplementary course introducing programming for media/culture technologies, based on the [JavaScript](http://en.wikipedia.org/wiki/JavaScript) language
 
 KAIST [Graduate School of Culture Technology](http://ct.kaist.ac.kr), Spring 2014   
-Hours: (Tue or Thu, 7pm) TBD   
+Hours: Tue 6-8pm   
+Location: N2 1st floor   
 Professor: [Dr. Graham Wakefield](http://www.grahamwakefield.net)   
 TA: Seungwha Jeong      
 Language: English   
