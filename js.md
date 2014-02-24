@@ -6,7 +6,7 @@ KAIST [Graduate School of Culture Technology](http://ct.kaist.ac.kr), Spring 201
 Hours: Tue 6-8pm   
 Location: N2 1st floor   
 Professor: [Dr. Graham Wakefield](http://www.grahamwakefield.net)   
-TA: Seungwha Jeong      
+TA: Seungwha Jeong & Myeongjae Kim      
 Language: English   
 Web: [https://github.com/grrrwaaa/gct501/blob/master/js.md](https://github.com/grrrwaaa/gct501/blob/master/js.md)
 
