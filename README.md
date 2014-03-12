@@ -7,7 +7,7 @@ Language: English
 Credit: 3.0   
 Web: https://github.com/grrrwaaa/gct501
 
-> Note: CT501 is also supported by [a supplementary programming course (using the JavaScript language](https://github.com/grrrwaaa/gct501/blob/master/js.md)). All students must sign up for this supplementary course or the physical computing course (or both!).
+> Note: CT501 is also supported by supplementary courses including physical computing and [programming (using the JavaScript language](https://github.com/grrrwaaa/gct501/blob/master/js.md)). All students must sign up for the physical computing course, and students without programming experience are recommended to also take the JavaScript course.
 
 [![Sleepless Wonderland](http://www.thisiscolossal.com/wp-content/uploads/2013/02/yang-1.jpg)](http://www.thisiscolossal.com/2013/02/yang-yongliang-silent-city/)
 
