@@ -71,9 +71,9 @@ A research **proposal** concisely summarizes the research project in a *problem 
 
 Don't start from the beginning; start from what you already have & let the vision emerge. Narrow & deep: rather than starting from bigger vision, begin from a close-up and zoom out. 
 
-Use *evidence-centered* language, not *I-centered* language: Not "I believe that..." but "prior research evidence shows that...". 
+Use *evidence-centered* language, not *I-centered* language: Not "I believe that..." but "prior research evidence shows that...". Objective, not subjective.
 
-Use diagrams or other visuals whenever these convey ideas more effectively than text.
+Use diagrams or other visuals whenever these convey ideas more effectively than text, *so long as the diagrams are relevant!*.
 
 Nothing should be vague or ambiguous.
 
