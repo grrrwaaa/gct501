@@ -111,19 +111,19 @@ The website itself might be the primary result: for example, it could be designe
 - 4/22 No Class: MIDTERM
 - 4/24 No Class: MIDTERM
 - 4/29 Project Proposal: Teams A, B
-- 5/1  No Class: Buddha’s Birthday
-- 5/6  Project Proposal: Teams C, D
-- 5/8  Project Proposal: Teams E, F
-- 5/13 Project Proposal: Teams G, H
-- 5/15 Project Proposal: Teams I, J
-- 5/20 Progress Report 1: Teams A, B, C
-- 5/22 Progress Report 1: Teams D, E, F
-- 5/27 Progress Report 1: Teams G, H, I
-- 5/29 Progress Report 1: Teams J; Progress Report 2: Teams A, B
-- 6/3  Progress Report 2: Teams C, D, E
-- 6/5  Progress Report 2: Teams F, G, H
-- 6/10 Progress Report 2: Teams I, J
-- 6/12 Final documentation preparation
+- 5/1  No Class: Labor day
+- 5/6  No Class: Buddha’s Birthday
+- 5/8  Project Proposal: Teams C, D
+- 5/13 Project Proposal: Teams E, F
+- 5/15 Project Proposal: Teams G, H
+- 5/20 Project Proposal: Teams I, J
+- 5/22 Progress Report 1: Teams A, B, C
+- 5/27 Progress Report 1: Teams D, E, F
+- 5/29 Progress Report 1: Teams G, H, I
+- 6/3 Progress Report 1: Teams J; Progress Report 2: Teams A, B
+- 6/5 Progress Report 2: Teams C, D, E
+- 6/10 Progress Report 2: Teams F, G, H
+- 6/12 Progress Report 2: Teams I, J
 - 6/17 No Class: EXAM WEEK
 - 6/19 No Class: EXAM WEEK
 
