@@ -111,9 +111,9 @@ The website itself might be the primary result: for example, it could be designe
 - 4/22 No Class: MIDTERM
 - 4/24 No Class: MIDTERM
 - 4/29 Project Proposal: Teams A, B
-- 5/1  Project Proposal: Teams C, D
+- 5/1  Project Proposal: Team C
 - 5/6  No Class: Buddha’s Birthday
-- 5/8  Project Proposal: Teams E, F
+- 5/8  Project Proposal: Teams D, E, F (if time permits)
 - 5/13 Project Proposal: Teams G, H
 - 5/15 Project Proposal: Teams I, J
 - 5/20 Progress Report 1: Teams A, B, C
