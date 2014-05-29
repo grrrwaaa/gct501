@@ -118,11 +118,11 @@ The website itself might be the primary result: for example, it could be designe
 - 5/15 Project Proposal: Teams I, J
 - 5/20 Progress Report 1: Teams A, B, C
 - 5/22 Progress Report 1: Teams D, E, F
-- 5/27 Progress Report 1: Teams G, H, I
-- 5/29 Progress Report 1: Teams J; Progress Report 2: Teams A, B
-- 6/3  Progress Report 2: Teams C, D, E
-- 6/5  Progress Report 2: Teams F, G, H
-- 6/10 Progress Report 2: Teams I, J
+- 5/27 Canceled due to PhD interviews
+- 5/29 Progress Report 1: Teams G, H, I
+- 6/3  Progress Report 1: Teams J; Progress Report 2: Teams A, B
+- 6/5  Progress Report 2: Teams C, D, E, F
+- 6/10  Progress Report 2: Teams G, H, I, J
 - 6/12 Final presentations?
 - 6/17 Final presentations?
 - 6/19 Final presentations?
