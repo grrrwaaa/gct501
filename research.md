@@ -123,9 +123,8 @@ The website itself might be the primary result: for example, it could be designe
 - 6/3  Progress Report 2: Teams C, D, E
 - 6/5  Progress Report 2: Teams F, G, H
 - 6/10 Progress Report 2: Teams I, J
-- 6/12 Final presentations?
-- 6/17 Final presentations?
-- 6/19 Final presentations?
+
+- 6/19 Final presentations: 4pm-7pm
 
 
 
